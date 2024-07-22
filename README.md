@@ -4,6 +4,8 @@
 
 In this project, I designed an interactive ordering system for a food truck menu. This system allows customers to place orders, stores their order details, and prints a receipt with the total price of all items ordered.
 
+The program will first ask you to select a menu category by entering the corresponding number. After selecting a category, you will be prompted to choose an item from the displayed sub-menu by entering the item number. Enter the quantity of the item you wish to order. If you enter an invalid quantity, it will default to 1. The program will ask if you want to keep ordering; enter Y for yes or N for no. Once you decide to stop ordering, the program will print a receipt showing all the items ordered, their prices, quantities, and the total cost.
+
 ## Code Source Acknowledgement
 
 This project was completed with the assistance of tutor support. 
